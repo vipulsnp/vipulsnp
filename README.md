@@ -1,4 +1,4 @@
-### Hi , My name is Vipul Sharma <img src="https://avatars2.githubusercontent.com/u/41316371?s=400&u=246fdde5aff04f05723698e8196d2228691c9741&v=4" width="35px">
+### Hi , My name is Vipul Sharma
 I am a Front-end Developer, tech enthisiast from Delhi,India. I'm currently pursuing Mechanical Engineering from DTU.
 - 📖 Learning & improving
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/vipul-sharma-7a7312180/) 
