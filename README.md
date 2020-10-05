@@ -1,5 +1,5 @@
 ### Hi , My name is Vipul Sharma
-I am a Front-end Developer, tech enthisiast from Delhi,India. I'm currently pursuing Mechanical Engineering from DTU.
+I am a Front-end Developer, tech enthusiast from Delhi,India. I'm currently pursuing Mechanical Engineering from DTU.
 - 📖 Learning & improving
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/vipul-sharma-7a7312180/) 
 
