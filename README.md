@@ -1,10 +1,9 @@
 ### Hi , My name is Vipul Sharma
-I am a Front-end Developer, tech enthusiast from Delhi,India. I'm currently pursuing Mechanical Engineering from DTU.
+I am a Software Development Engineer, tech enthusiast, graduated from Delhi Technological University.
 - 📖 Learning & improving
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/vipul-sharma-7a7312180/) 
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sharma-vipul/) 
 
 **Work**
-- [OpenSourceCode Platform](https://github.com/opensoucecode/frontend)
 - [Personal Website](https://portfolio-vipul.herokuapp.com)
 
 ### Language and Tools
