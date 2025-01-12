@@ -3,9 +3,6 @@ I am a Software Development Engineer, tech enthusiast, graduated from Delhi Tech
 - 📖 Learning & improving
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sharma-vipul/) 
 
-**Work**
-- [Personal Website](https://portfolio-vipul.herokuapp.com)
-
 ### Language and Tools
 
 **Front-end Development**
